@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Deck",
+  "description": "Reproductor analógico minimalista estilo cassette deck japonés con soporte para música local, ecualizador DSP y mixtapes virtuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
